@@ -3,7 +3,7 @@
 <div align="start">
   <a href="https://github.com/DaniKabiyesi">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DaniKabiyesi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniKabiyesi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniKabiyesi&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Ad" height="48" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
