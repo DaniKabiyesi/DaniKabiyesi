@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Ad" height="48" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   <img align="center" alt="Dani-Kt" height="48" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="left" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="left" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/thewire-stringerbell-gif-5771877">
 </div>
   
   ##
