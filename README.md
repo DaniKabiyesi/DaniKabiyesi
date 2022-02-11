@@ -1,5 +1,6 @@
-### Hi there 👋
-## E aí, eu sou o Daniel Matos. Estudo desenvolvimento android!
+### Fala, galera! 
+## Me chamo Daniel Matos, sou um desenvolvedor android em formação 🎒!
+# Acompanhe meus aprendizados pelo meu GitHub 📓 
 <div align="start">
   <a href="https://github.com/DaniKabiyesi">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DaniKabiyesi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
