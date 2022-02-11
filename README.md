@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## E aí, eu sou o Daniel Matos. Estudo desenvolvimento android!
-<div align="center">
+<div align="start">
   <a href="https://github.com/DaniKabiyesi">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniKabiyesi&layout=compact&langs_count=7&theme=dracula"/>
