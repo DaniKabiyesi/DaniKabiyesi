@@ -1,5 +1,5 @@
 ### Fala, galera! 
-## Me chamo Daniel Matos, sou um desenvolvedor android em formação 🎒!
+## Me chamo Daniel Matos, sou um android engineer 🎒!
 ## Acompanhe meus aprendizados pelo meu GitHub 📓 
 <div align="start">
   <a href="https://github.com/DaniKabiyesi">
