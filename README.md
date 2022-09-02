@@ -1,4 +1,4 @@
-### Fala, galera! 
+### Sup, guys! 
 # Hey! My name is Daniel, but you can call me just Dani! 
 
 I’ve been an android developer since 2021, working on building solutions using Android stack and Kotlin programming language. 
