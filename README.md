@@ -1,6 +1,9 @@
 ### Fala, galera! 
-## Me chamo Daniel Matos, sou um android engineer 🎒!
-## Acompanhe meus aprendizados pelo meu GitHub 📓 
+# Hey! My name is Daniel, but you can call me just Dani! 
+
+I’ve been an android developer since 2021, working on building solutions using Android stack and Kotlin programming language. 
+
+Here you’ll find some of my study projects!!
 <div align="start">
   <a href="https://github.com/DaniKabiyesi">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DaniKabiyesi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
